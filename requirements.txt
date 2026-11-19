@@ -1,0 +1,6 @@
+# MCP Guardian Requirements
+# Core functionality has ZERO external dependencies (uses Python standard library + Tkinter).
+
+# Optional packages for enhanced development & testing
+pytest>=7.0.0
+ruff>=0.1.0
